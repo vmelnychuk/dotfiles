@@ -11,3 +11,8 @@ set expandtab
 
 " Auto indent 
 set smartindent
+
+" Fix backspace problems
+set backspace=2
+set backspace=indent,eol,start
+
